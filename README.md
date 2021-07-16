@@ -1,16 +1,17 @@
-### Hi there 👋
+### Available For
 
-<!--
-**foresthoffman/foresthoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👍 Stable (non-startup) offers
+- 👍 Full-time positions
+- 👍 Remote first organizations
+- 👍 Mid to senior engineering positions
+- 👍 Go, TypeScript, or Node
+- 👍 RESTful APIs
+- 👍 Microservices
+- 👍 Distributed systems
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌲 [Portfolio](https://foresthoffman.com)
+- 📝 [Blog](https://dev.to/foresthoffman)
+- 🐦 [Twitter](https://twitter.com/ForestJHoffman)
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/foresthoffman/)
