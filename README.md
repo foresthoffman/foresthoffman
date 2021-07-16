@@ -2,7 +2,7 @@
 
 - 👍 Stable (non-startup) offers
 - 👍 Full-time positions
-- 👍 Remote first organizations
+- 👍 [Remote first](https://basecamp.com/remote-resources) organizations
 - 👍 Mid to senior engineering positions
 - 👍 Go, TypeScript, or Node
 - 👍 RESTful APIs
