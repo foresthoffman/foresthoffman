@@ -1,6 +1,5 @@
 ### Available For
 
-- 👍 Stable (non-startup) offers
 - 👍 Full-time positions
 - 👍 [Remote first](https://basecamp.com/remote-resources) organizations
 - 👍 Mid to senior engineering positions
