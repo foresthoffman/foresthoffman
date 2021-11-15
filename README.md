@@ -1,8 +1,7 @@
-### Available For
+### Interests
 
-I am *not* looking for work, and I am unable to take on any new projects at this time. Thank you for understanding!
+```I am *not* looking for work, and I am unable to take on any new projects at this time. Thank you for understanding!```
 
-<!--
 - 👍 Full-time positions
 - 👍 [Remote first](https://basecamp.com/remote-resources) organizations
 - 👍 Mid to senior engineering positions
@@ -10,7 +9,6 @@ I am *not* looking for work, and I am unable to take on any new projects at this
 - 👍 RESTful APIs
 - 👍 Microservices
 - 👍 Distributed systems
--->
 
 ### Links
 
