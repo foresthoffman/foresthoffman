@@ -4,7 +4,7 @@
 
 - 👍 Full-time positions
 - 👍 [Remote first](https://basecamp.com/remote-resources) organizations
-- 👍 Mid to senior engineering positions
+- 👍 Engineer or Senior Engineer positions
 - 👍 Go, TypeScript, or Node
 - 👍 RESTful APIs
 - 👍 Microservices
