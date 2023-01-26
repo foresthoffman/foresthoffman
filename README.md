@@ -14,6 +14,5 @@
 
 - 🌲 [Portfolio](https://foresthoffman.com)
 - 📝 [Blog](https://dev.to/foresthoffman)
-- 🐦 [Twitter](https://twitter.com/ForestJHoffman)
 - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/foresthoffman/)
 - 🌌 [Polywork](https://polywork.foresthoffman.com/)
