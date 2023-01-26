@@ -1,6 +1,6 @@
 ### Interests
 
-```I am *not* looking for work, and I am unable to take on any new projects at this time. Thank you for understanding!```
+```I am currently searching for full-time and 100% remote opportunities. I am not open to relocation.```
 
 - 👍 Full-time positions
 - 👍 [Remote first](https://basecamp.com/remote-resources) organizations
