@@ -12,6 +12,4 @@
 
 ### Links
 
-- 🌲 [Portfolio](https://foresthoffman.com)
-- 📝 [Blog](https://dev.to/foresthoffman)
-- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/foresthoffman/)
+🌲 [Portfolio](https://foresthoffman.com) | 📝 [Blog](https://dev.to/foresthoffman) | 👨‍💻 [LinkedIn](https://www.linkedin.com/in/foresthoffman/)
