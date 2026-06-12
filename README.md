@@ -3,8 +3,8 @@
 ```I am open to full-time and 100% remote opportunities. I am *not* open to relocation.```
 
 - 👍 Full-time Senior Engineer positions at Remote first organizations
-- 👍 Go, TypeScript, or Node
 - 👍 RESTful APIs, Microservices, and Distributed Systems
+- 👍 Go, TypeScript, or Node
 
 ### Links
 
