@@ -1,10 +1,14 @@
-### Interests
-
-```I am open to full-time and 100% remote opportunities. I am *not* open to relocation.```
-
-- 👍 Full-time Senior Engineer positions at remote-first organizations
-- 👍 RESTful APIs, Microservices, and Distributed Systems
+I am interested in:
+- 👍 Full-time and 100% remote Senior Engineer positions
+- 👍 Positions with healthy and respectful engineering culture
+- 👍 RESTful APIs, microservices, and distributed systems
 - 👍 Go, TypeScript, or Node
+
+I am NOT interested in:
+- 🛑 Contracts or contract-to-hire
+- 🛑 In-person or hybrid positions
+- 🛑 Part-time positions
+- 🛑 People-manager positions
 
 ### Links
 
